@@ -10,6 +10,17 @@ Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se de
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
+Persona - Gean
+
+Máximos, é um jovem de 18 anos que está atualmente solteiro e não tem filhos. Ele trabalha em uma empresa de criptomoedas, onde sua principal responsabilidade é vender criptomoedas em várias plataformas digitais.
+
+No entanto, Máximos tem uma paixão muito especial por um modelo específico de tênis, o Nike Jordan 1. Essa paixão foi introduzida a ele por seus amigos do colégio e também por alguns familiares. Ele admira profundamente esse modelo de tênis, mas, devido às despesas do dia a dia e à natureza cara dos Nike Jordan 1, ele não tem condições financeiras para adquiri-los.
+
+Determinado a realizar seu desejo de possuir esse modelo de tênis tão desejado, Máximos começou a pesquisar diferentes alternativas. Ele olhou para plataformas de venda de tênis semi-novos, mas ainda assim os altos preços dos modelos desejados estavam fora de seu alcance financeiro.
+
+Entretanto, Máximos teve uma reviravolta quando descobriu uma plataforma de troca online. Nessa plataforma, ele encontrou um anúncio de alguém disposto a trocar o modelo de Nike Jordan 1 que ele tanto desejava por algo que Máximos tinha em sua possibilidade de oferecer. Essa oportunidade única permitiu que conquistasse seu primeiro par de Nike Jordan 1, realizando seu sonho e finalmente tendo em suas mãos o tênis que tanto admirava.
+
+
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
 > - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
