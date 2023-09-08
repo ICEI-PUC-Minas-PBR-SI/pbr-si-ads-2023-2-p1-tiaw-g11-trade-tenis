@@ -41,11 +41,7 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
-
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+A nossa plataforma se destina às pessoas físicas de qualquer gênero, entre 5 e 55 anos, na qual ganham entre R$200,00 a 12.000,00. Habitantes tanto de regiões urbanas quanto rurais. Sem nenhuma formação acadêmica, abrangendo também todos os estados civis dos habitantes. Buscando uma melhor forma de conquistar seus modelos de tênis desejados.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
