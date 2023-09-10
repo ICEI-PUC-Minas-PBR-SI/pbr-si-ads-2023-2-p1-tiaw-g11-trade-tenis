@@ -20,6 +20,10 @@ Determinado a realizar seu desejo de possuir esse modelo de tênis tão desejado
 
 Entretanto, Máximos teve uma reviravolta quando descobriu uma plataforma de troca online. Nessa plataforma, ele encontrou um anúncio de alguém disposto a trocar o modelo de Nike Jordan 1 que ele tanto desejava por algo que Máximos tinha em sua possibilidade de oferecer. Essa oportunidade única permitiu que conquistasse seu primeiro par de Nike Jordan 1, realizando seu sonho e finalmente tendo em suas mãos o tênis que tanto admirava.
 
+Persona -Elaine
+
+Marta Silva é uma mulher cheia de energia e entusiasma, com apenas 20 anos de idade. Ela adora praticar esportes com os amigos. Recentemente, ela constuma bastante trocar de tênis para variar os modelos. Seus tênis antigos já estão repitidos e  desconfortáveis, dificultando sua diversão durante as atividades esportivas.
+Marta decidiu que está na hora de trocar seus tênis por um par diferente  e mais confortável para que ela possa continuar correndo, saltando e se divertindo ao máximo. Ela está ansioso para encontrar alguém disposto a trocar seus tênis antigos por um par que se ajuste melhor aos seus pés . Com um sorriso contagiante e a empolgação de uma jovem aventureira, Marta está pronto para fazer essa troca e voltar a se divertir plenamente com seus amigos e com seu novo para de tênis.
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
