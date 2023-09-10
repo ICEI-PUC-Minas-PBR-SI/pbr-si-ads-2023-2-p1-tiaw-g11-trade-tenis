@@ -25,6 +25,9 @@ Persona -Elaine
 Marta Silva é uma mulher cheia de energia e entusiasma, com apenas 20 anos de idade. Ela adora praticar esportes com os amigos. Recentemente, ela constuma bastante trocar de tênis para variar os modelos. Seus tênis antigos já estão repitidos e  desconfortáveis, dificultando sua diversão durante as atividades esportivas.
 Marta decidiu que está na hora de trocar seus tênis por um par diferente  e mais confortável para que ela possa continuar correndo, saltando e se divertindo ao máximo. Ela está ansioso para encontrar alguém disposto a trocar seus tênis antigos por um par que se ajuste melhor aos seus pés . Com um sorriso contagiante e a empolgação de uma jovem aventureira, Marta está pronto para fazer essa troca e voltar a se divertir plenamente com seus amigos e com seu novo para de tênis.
 
+Lucas Jasem tem 22 anos, é solteiro, sem filhos e autônomo. Trabalha com sua própria plataforma digital, vendendo roupas e acessórios de marca para as pessoas de todo Brasil. Graças ao trabalho que faz, Jasem sempre teve bastante aproximação com a cultura de moda e streetwear e, por isso, faz viagens para São Paulo tanto para se aproximar da cultura como para comprar produtos mais baratos. Mesmo ganhando 4 mil mensais com sua loja, Lucas anda tendo bastante despesas,  algumas delas são aluguel, trabalho,  casa, convênios hospitalares, e receitas médicas que, estão limitando muito sua renda e o impedindo de começar a investir em tênis. Por sorte, Jasem é um fornecedor inteligente e foi atrás de plataformas e lojas que trabalham com trocas de tênis usados e semi-novos, pois essa é a alternativa que cabe em seu bolso no momento.
+
+
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
 > - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
