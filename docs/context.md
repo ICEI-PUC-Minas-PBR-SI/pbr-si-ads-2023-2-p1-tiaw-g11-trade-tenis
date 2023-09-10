@@ -11,16 +11,20 @@ Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+O comercio de tênis usados tem se tornando uma pratica cada vez mais comum,impulsionada por fatores de sustentabilidade,economia e acessibilidade.
+No entanto,essa tendência levanta várias preocupaçoes e implicaçoes que merecem analises tais como:
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+1-Problema Econômico-Social:Pessoas que não possuem condicoes financeiras para comprar um tenis novo em lojas convencionais a troca dos tenis semi-novos
+seria uma alternativa para obtenção do tênis desejado.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+2-Limitação de plataformas que oferecem apenas  o serviço de troca de tênis:The Sneaker Exchange e uma das poucas plataformas que trabalham apenas com a troca de tênis permitindo
+aos usuários procurar por tênis específicos que desejam trocar.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+3-No mercado de troca de tênis, um problema recorrente é a escassez de transparência em relação à autenticidade dos produtos. Com a crescente popularidade de tênis de edição 
+limitada e colecionáveis, surgiram preocupações sobre a presença de tênis falsificados ou réplicas de baixa qualidade sendo trocados como produtos autênticos. Isso cria uma 
+atmosfera de desconfiança entre os participantes do mercado, além de potencialmente levar a transações injustas e a experiências negativas para os consumidores.
+
+
 
 ## Objetivos
 
