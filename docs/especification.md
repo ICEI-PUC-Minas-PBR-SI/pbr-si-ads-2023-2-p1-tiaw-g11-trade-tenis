@@ -92,6 +92,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Administrador      |Manutenção e Segurança da         |Manter a plataforma atualizada e monitorar atividades suspeitas|
 |Usuário            |Feedback e Avaliação              |Após concluir uma troca, deixe um feedback honesto            |
 |Usúario            |Resolução de Problemas            |Se ocorrerem problemas durante uma troca, entre em contato com o suporte para resolver a situação|
+|Usuário do Sistema	|Acompanhar meu progresso de tarefas  |Manter-me motivado e organizado|
+|Administrador	     |Analisar estatísticas de uso	        |Tomar decisões informadas sobre melhorias na plataforma|
+|Usuário do Sistema	|Personalizar meu perfil	             |Expressar minha personalidade na plataforma|
+|Usuário do Sistema	|Configurar notificações	             |Ser alertado sobre atividades importantes na plataforma|
+|Usuário do Sistema	|Gerar relatórios de desempenho	      |Avaliar meu progresso e identificar áreas de melhoria|
 
 
 
