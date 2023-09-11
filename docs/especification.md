@@ -85,18 +85,21 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Administrador      |Alterar permissões                | Permitir que possam administrar contas                      |
 |Usuário do Sistema |Cadastrar dados pessoais          | Utilizar a plataforma                                       |
 |Usuário do Sistema |Cadastrar modelos                 | Divulgar modelo pra troca                                   |
-|Administrador      |Autorizar cadastro de modelo      |                 x                                           |
-|Administrador      |Gerenciamento de Conteúdo         |Adicionar e atualizar listagens de tênis disponíveis         |
+|Administrador      |Autorizar cadastro de modelo      | Avaliar e Permitir que seja postado                                |Usuário            |Enviar proposta de troca          | Negociar modelos com outro usuário                          |
+|Administrador      |Gerenciar Conteúdo                |Adicionar e atualizar listagens de tênis disponíveis         |
 |Administrador      |Informaçoes precisas e atualizadas|Garantir que as informações sobre os tênis                   |
-|Administrador      |Comunicação e Suporte ao Usuário  |Responder a perguntas e consultas dos usuários               |
-|Administrador      |Manutenção e Segurança da         |Manter a plataforma atualizada e monitorar atividades suspeitas|
-|Usuário            |Feedback e Avaliação              |Após concluir uma troca, deixe um feedback honesto            |
-|Usúario            |Resolução de Problemas            |Se ocorrerem problemas durante uma troca, entre em contato com o suporte para resolver a situação|
-|Usuário do Sistema	|Acompanhar meu progresso de tarefas  |Manter-me motivado e organizado|
-|Administrador	     |Analisar estatísticas de uso	        |Tomar decisões informadas sobre melhorias na plataforma|
-|Usuário do Sistema	|Personalizar meu perfil	             |Expressar minha personalidade na plataforma|
-|Usuário do Sistema	|Configurar notificações	             |Ser alertado sobre atividades importantes na plataforma|
-|Usuário do Sistema	|Gerar relatórios de desempenho	      |Avaliar meu progresso e identificar áreas de melhoria|
+|Administrador      |Comunicação e Suporte ao Usuário  |Responder a perguntas e solicitações dos usuários            |
+|Administrador      |Manutenção e Segurança da         |Manter a plataforma atualizada e monitorar atividades        |
+|Usuário            |Avaliar troca                     |Facilitar convivío e administracao de contas                 |  
+|Usúario            |Solicitar amparo da plataforma    |Receber auxílio da plataforma em alguma situação de urgência |
+|Usuário do Sistema	|Acompanhar meu progresso          |Manter-me motivado e organizado                              |
+|Administrador	     |Analisar estatísticas e avaliações|Tomar decisões informadas sobre melhorias na plataforma      |
+|Usuário do Sistema	|Personalizar meu perfil	          |Expressar minha personalidade na plataforma                  |
+|Usuário do Sistema	|Configurar notificações	          |Ser alertado sobre atividades importantes na plataforma      |
+|Usuário do Sistema	|Gerar relatórios de desempenho	   |Avaliar meu progresso e identificar áreas de melhoria        |
+|Usuário do sistema |Avaliar plataforma                |Permitir que o usuário deixe seu feedback para os administra
+dores|
+|Usuário            |Gerenciar modelo cadastrado       |Prover informações atualizadas e alterar requisitos          |
 
 
 
