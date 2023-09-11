@@ -4,6 +4,43 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
+Especificações do Projeto: Trade Tenis
+
+Introdução:
+O mercado global de tênis de alta qualidade tem testemunhado um aumento constante nos preços dos produtos das principais marcas. Consequentemente, muitos indivíduos de baixa renda enfrentam dificuldades em adquirir modelos de tênis mais recentes ou específicos, que por vezes têm valores que superam o salário mínimo. Este projeto visa abordar essa questão, proporcionando uma plataforma de troca de tênis para os usuários.
+
+Objetivo:
+O objetivo principal deste projeto é criar uma plataforma que permita aos usuários trocar tênis usados ou novos, proporcionando-lhes uma alternativa viável à compra direta. As principais características incluem:
+
+1. Sistema de Troca:
+- Os usuários terão a capacidade de listar tênis que desejam trocar por outros modelos de sua preferência.
+- A plataforma facilitará a correspondência de usuários interessados em trocar seus tênis.
+- As negociações de troca ocorrerão diretamente entre os usuários, com a plataforma atuando como intermediária na comunicação.
+
+2. Praticidade de Uso:
+- A plataforma será projetada com uma interface de usuário intuitiva e amigável.
+- A pesquisa e navegação serão simplificadas para que os usuários possam facilmente encontrar os tênis que desejam trocar.
+- Um sistema de categorização e filtragem eficiente será implementado para facilitar a busca de modelos específicos.
+
+3. Comunicação Eficiente:
+- A plataforma fornecerá ferramentas de comunicação eficientes, como mensagens diretas entre os usuários interessados em trocar.
+- O suporte ao cliente estará disponível para auxiliar os usuários e solucionar eventuais problemas.
+
+Requisitos Técnicos:
+- A plataforma será desenvolvida como um aplicativo web acessível a partir de dispositivos desktop e móveis.
+- Deve ser implementada uma base de dados segura para armazenar informações dos usuários e listagens de tênis.
+- Medidas de segurança robustas serão aplicadas para proteger informações pessoais e transações.
+
+Cronograma:
+- O projeto será desenvolvido em fases, com metas intermediárias estabelecidas para monitorar o progresso.
+- A previsão é que a plataforma esteja totalmente funcional no prazo de 1 semestre a partir da data de início.
+
+Orçamento:
+- Um orçamento detalhado será elaborado durante a fase de planejamento do projeto, considerando os custos de desenvolvimento, hospedagem, segurança e suporte ao cliente.
+
+Conclusão:
+Este projeto visa atender às necessidades dos usuários de tênis que desejam acessar modelos mais recentes e específicos sem sobrecarregar seus orçamentos. Ao criar uma plataforma de troca de tênis eficiente, esperamos contribuir para a democratização do acesso a produtos de qualidade no mercado de tênis.
+
 ## Personas
 
 Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
