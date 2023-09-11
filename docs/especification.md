@@ -79,13 +79,14 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Usuário do Sistema  | Cadastrar dados pessoais           | Utilizar a plataforma                  |
-|Usuário do Sistema  | Cadastrar modelos                  | Divulgar modelo pra troca              |
-|Administrador       | Autorizar cadastro de modelo       |                 x                      |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                                                  |
+|--------------------|------------------------------------|-------------------------------------------------------------------------|
+|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las                                                |
+|Administrador       | Alterar permissões                 | Permitir que possam administrar contas                                  |
+|Usuário do Sistema  | Cadastrar dados pessoais           | Utilizar a plataforma                                                   |
+|Usuário do Sistema  | Cadastrar modelos                  | Divulgar modelo pra troca                                               |
+|Administrador       | Autorizar cadastro de modelo       |                 x                                                       |
+|Administrador       |Gerenciamento de Conteúdo           |Adicionar e atualizar listagens de tênis disponíveis para troca          |
 
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
