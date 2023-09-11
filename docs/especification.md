@@ -79,17 +79,18 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`         PARA ... `MOTIVO/VALOR`                                         |
-|--------------------|-------------------------------------------|----------------------------------------------------------------|
-|Usuário do sistema  |Registrar minhas tarefas                  | Não esquecer de fazê-las                                        |
-|Administrador       |Alterar permissões                        | Permitir que possam administrar contas                          |
-|Usuário do Sistema  |Cadastrar dados pessoais                  | Utilizar a plataforma                                           |
-|Usuário do Sistema  |Cadastrar modelos                         | Divulgar modelo pra troca                                       |
-|Administrador       |Autorizar cadastro de modelo              |                 x                                               |
-|Administrador       |Gerenciamento de Conteúdo                 |Adicionar e atualizar listagens de tênis disponíveis para troca  |
-|Administrador       |Garantir informaçoes precisas e atualizadas|Garantir que as informações sobre os tênis                      |
-|Administrador       |Comunicação e Suporte ao Usuário          |Responder a perguntas e consultas dos usuários sobre a plataforma|
-|Administrador       |Manutenção e Segurança da Plataforma      |Manter a plataforma atualizada e monitorar atividades suspeitas  |
+|EU COMO... `PERSONA| QUERO/PRECISO ... `FUNCIONALIDADE`         PARA ... `MOTIVO/VALOR`                                   |
+|-------------------|----------------------------------------|-------------------------------------------------------------|
+|Usuário do sistema |Registrar minhas tarefas                | Não esquecer de fazê-las                                    |
+|Administrador      |Alterar permissões                      | Permitir que possam administrar contas                      |
+|Usuário do Sistema |Cadastrar dados pessoais                | Utilizar a plataforma                                       |
+|Usuário do Sistema |Cadastrar modelos                       | Divulgar modelo pra troca                                   |
+|Administrador      |Autorizar cadastro de modelo            |                 x                                           |
+|Administrador      |Gerenciamento de Conteúdo               |Adicionar e atualizar listagens de tênis disponíveis         |
+|Administrador      |Garantir informaçoes precisas e atualizadas|Garantir que as informações sobre os tênis                |
+|Administrador      |Comunicação e Suporte ao Usuário        |Responder a perguntas e consultas dos usuários               |
+|Administrador      |Manutenção e Segurança da Plataforma    |Manter a plataforma atualizada e monitorar atividades suspeitas|
+|Usuário            |Feedback e Avaliação                    |Após concluir uma troca, deixe um feedback honesto sobre a experiência|
 
 
 
