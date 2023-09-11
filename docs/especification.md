@@ -91,7 +91,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Administrador      |Comunicação e Suporte ao Usuário  |Responder a perguntas e consultas dos usuários               |
 |Administrador      |Manutenção e Segurança da         |Manter a plataforma atualizada e monitorar atividades suspeitas|
 |Usuário            |Feedback e Avaliação              |Após concluir uma troca, deixe um feedback honesto            |
-
+|Usúario            |Resolução de Problemas            |Se ocorrerem problemas durante uma troca, entre em contato com o suporte para resolver a situação|
 
 
 
